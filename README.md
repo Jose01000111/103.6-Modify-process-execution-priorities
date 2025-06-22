@@ -5,9 +5,9 @@ I launched processes with default and custom priorities, examined running proces
 
 [EXAM OBJECTIVE 103.6](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.6_Modify_process_execution_priorities)
 
-[OBJ. 103.6 NOTES]()
+[OBJ. 103.6 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EQ1wyEsZCAtLtJpy3U1QrEwBCwvflYx-NC4DoQAZalZeDw?e=8rq4Nj)
 
-[OBJ. 103.6 LAB]()
+[OBJ. 103.6 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EQ1wyEsZCAtLtJpy3U1QrEwBJ1Fi_mK_PKlfjVkXrQipTg?e=PFEGl2)
 
 ---
 
