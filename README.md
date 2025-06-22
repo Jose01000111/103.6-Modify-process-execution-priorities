@@ -31,13 +31,19 @@ I launched processes with default and custom priorities, examined running proces
 
 🔹Verify both with ps
 
+![FNXY3be](https://github.com/user-attachments/assets/1206b01f-097f-4990-958b-d757363338b3)
+
 ## 3️⃣ Changing the Priority of a Running Process
 
 🔹Find the PID of the running sleep command
 
+![q8YpBkh](https://github.com/user-attachments/assets/837a9888-2278-48e0-a210-2c7c85638a10)
+
 🔹Change the priority using renice
 
 🔹Try again with root privileges to increase priority
+
+![oZ3TunU](https://github.com/user-attachments/assets/31043925-4dd6-4022-b7bc-bff06a250c16)
 
 ## 4️⃣ Monitor Processes Interactively
 
@@ -45,7 +51,13 @@ I launched processes with default and custom priorities, examined running proces
 
 🔹Press r inside top to renice a process interactively
 
+![M8fj7nn](https://github.com/user-attachments/assets/28318d1c-d740-461a-822e-9d91494fa03e)
+
 🔹Enter the PID and the new nice value.
+
+![xHOppy5](https://github.com/user-attachments/assets/96cb0056-81d4-436a-ba34-4f20225de017)
+
+![IhtnxJM](https://github.com/user-attachments/assets/608c6cec-54cd-4217-816b-59bc29847c0c)
 
 ##💡 What I learned
 Through this lab, I learned how Linux assigns default process priorities and how I can adjust them dynamically. I now understand how nice and renice influence CPU scheduling and why adjusting priorities can improve system responsiveness. This is essential for performance tuning in production environments. ⚙️📈🐧
