@@ -17,11 +17,17 @@ I launched processes with default and custom priorities, examined running proces
 
 🔹Run a basic command and observe its priority
 
+![0kjGznv](https://github.com/user-attachments/assets/b29851cf-7030-4246-b1fe-041a99b0e549)
+
 ## 2️⃣ Running a Program with a Custom Priority
 
 🔹Start a process with lower priority (nice value +10)
 
+![9fwh0oF](https://github.com/user-attachments/assets/e5d62367-561f-400a-a539-fb45cb8c9df3)
+
 🔹Start a process with higher priority (only as root)
+
+![V7nARaL](https://github.com/user-attachments/assets/23b4801e-5101-4316-989a-c389ee512a35)
 
 🔹Verify both with ps
 
